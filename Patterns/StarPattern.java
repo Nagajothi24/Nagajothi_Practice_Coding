@@ -1,3 +1,14 @@
+// Sample Input :
+
+// 4
+
+// Sample Output :
+
+// *
+// **
+// ***
+// ****
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
